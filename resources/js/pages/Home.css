@@ -1,0 +1,13 @@
+
+
+.log{
+  color: blue;
+}
+
+
+.tool{
+  border: 2px solid black;
+  background-image: url("login.pnj");
+  width: 50%;
+  height:100vh;
+}
