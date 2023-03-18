@@ -18,8 +18,8 @@ Route::get('/', function () {
      return view('app');
     
 });
-Route::get('/home', function () {
-  return inertia::render('home');
+Route::get('/users', function () {
+  return inertia::render('login');
     
 });
 
