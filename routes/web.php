@@ -18,7 +18,7 @@ Route::get('/', function () {
      return view('app');
     
 });
-Route::get('/users', function () {
+Route::get('/login', function () {
   return inertia::render('login');
     
 });
