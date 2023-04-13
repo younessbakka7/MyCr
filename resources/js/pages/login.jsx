@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../pages/home.css';
+import '../pages/Voiture.css';
 const Login = () => {
   return (
     <div>
@@ -24,71 +24,85 @@ const Login = () => {
   </div>
   </div> 
 
-  <div className='aboutus'>
-    <h1 className='us'>About Us</h1>
-    <img className='img' src="about.jpeg" alt="" />
-    <div className='text'>
-    <h3>What Makes Our Services Special?</h3>
-    <p>No Key Transfer With Our Technicians.
-Leave Your Car Unlocked Or Request For Your Technician To Contact You.</p><br /><br />
 
-    </div>
-    
-
-  </div >
-  <div className='row' >
-    <h1 className='POPULAR'>POPULAR BRANDS</h1>
-  <div className='bobila'>
-  <img src="ALpha.png" alt="" width="100%"/>
-  </div>
-  <div className='bobila'>
-  <img src="mercedes.png" alt="" width="100%" />
-  </div>
-  <div className='bobila'>
-  <img src="Suz.png" alt="" width="100%"  />
-  </div>
-
-  <div className='bobila'>
-  <img src="BMW.png" alt="" width="100%"  />
-  </div>
-  <div className='bobila'>
-  <img src="Wolswagen.png" alt="" width="100%"  />
-  </div>
-  <div className='bobila'>
-  <img src="SKODAA.png" alt="" width="100%"  />
-  </div>
-
-
-
-
-
-  
-  
-  </div>
-    
 
   <div class="grid-container">
   <div>
-    <img src="BMW8.png" alt="" />
+    <img className='img' src="bmw-x6.png" alt="" />
     <h1 className='cahd'>BMW X4</h1>
     <p className='cahd'>10.000 DH</p>
+   <button className='btn-shop'>Shop</button>
+  </div>
+  
+  <div>
+    <img className='img' src="bmw-x6.png" alt="" />
+    <h1 className='cahd'>BMW X4</h1>
+    <p className='cahd'>10.000 DH</p>
+    <button className='btn-shop'>Shop</button>
+  </div>
+  
+  <div>
+    <img className='img' src="BMW3.png" alt="" />
+    <h1 className='cahd'>BMW f4</h1>
+    <p className='cahd'>16.000 DH</p>
+    <button className='btn-shop'>Shop</button>
   </div>
   <div>
-    <img src="BMW8.png" alt="" />
-    <h1 className='cahd'>BMW X4</h1>
+    <img className='img' src="BMW4.png" alt="" />
+    <h1 className='cahd'>BMW </h1>
     <p className='cahd'>10.000 DH</p>
+    <button className='btn-shop'>Shop</button>
   </div>
   <div>
-    <img src="BMW8.png" alt="" />
-    <h1 className='cahd'>BMW X4</h1>
-    <p className='cahd'>10.000 DH</p>
+    <img className='img' src="BMW5.png" alt="" />
+    <h1 className='cahd'>BMW X</h1>
+    <p className='cahd'>13.000 DH</p>
+    <button className='btn-shop'>Shop</button>
   </div>
   <div>
-    <img src="BMW8.png" alt="" />
+    <img className='img' src="BMW6.png" alt="" />
+    <h1 className='cahd'>BMW X10</h1>
+    <p className='cahd'>22.000 DH</p>
+    <button className='btn-shop'>Shop</button>
+  </div>
+  <div>
+    <img className='img' src="BMW7.png" alt="" />
+    <h1 className='cahd'>BMW </h1>
+    <p className='cahd'>13.000 DH</p>
+    <button className='btn-shop'>Shop</button>
+  </div>
+  <div>
+    <img className='img' src="amg gt face.jpg" alt="" />
+    <h1 className='cahd'>BMW </h1>
+    <p className='cahd'>10.000 DH</p>
+    <button className='btn-shop'>Shop</button>
+  </div>
+  <div>
+    <img className='img' src="amg gt side.jpg" alt="" />
+    <h1 className='cahd'>BMW Xx4</h1>
+    <p className='cahd'>10.000 DH</p>
+    <button className='btn-shop'>Shop</button>
+  </div>
+  
+  <div>
+    <img className='img' src="BMW4.png" alt="" />
+    <h1 className='cahd'>BMW </h1>
+    <p className='cahd'>10.000 DH</p>
+    <button className='btn-shop'>Shop</button>
+  </div>
+  <div>
+    <img className='img' src="BMW4.png" alt="" />
+    <h1 className='cahd'>BMW </h1>
+    <p className='cahd'>10.000 DH</p>
+    <button className='btn-shop'>Shop</button>
+  </div>
+  <div>
+    <img className='img' src="bmw-x6.png" alt="" />
     <h1 className='cahd'>BMW X4</h1>
     <p className='cahd'>10.000 DH</p>
+    <button className='btn-shop'>Shop</button>
   </div>
-
+  
 
 
   </div>  
