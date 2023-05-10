@@ -1,0 +1,21 @@
+<div class="product">
+    <div class="product-image">
+      <img src="https://s.cdpn.io/3/dingo-dog-bones.jpg">
+    </div>
+    <div class="All">
+        <form action="" method="post">
+    <div class="product-details">
+      <div class="product-title"><b>Dingo Dog Bones</b></div>
+    </div>
+    <div class="product-price"><b>12.99</b></div>
+    <div class="product-quantity">
+      <input style="text-align:center;font-weight: bold;" type="text" value="2" readonly>
+    </div>
+    <div class="product-removal">
+      <input style="font-weight: bold;" type="submit" name="remove" class="remove-product" value="Remove">
+      </input>
+    </div>
+    <div class="product-line-price"><b>25.98</b></div>
+</form>
+  </div>
+</div>
