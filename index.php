@@ -500,7 +500,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
         
     </div>
 
-    <div class="credit">created by <span>Youness benbakka & Hamza Moumtaz</span> | all rights reserved</div>
+    <div class="credit">created by <span>Youness benbakka & Hamza Moumtaze</span> | all rights reserved</div>
 
 </section>
 
