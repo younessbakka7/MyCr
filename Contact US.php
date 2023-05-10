@@ -60,7 +60,7 @@ input::-webkit-inner-spin-button {
 
     <section class="contact" id="contact">
 
-        <h1 class="heading"> <span>contact</span> us </h1>
+        <h1 class="heading"> <span>Contact</span> us </h1>
         <section class="bgg footer">
         <div class="share">
             <a href="index.php" class="fab las la-home"> </a>
